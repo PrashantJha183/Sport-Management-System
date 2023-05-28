@@ -13,7 +13,7 @@ Sport Management System is the system that provides a platform to the student an
 # Steps to install
 1. Download Project Source Code from here.
 2. Paste the Folder in your xampp/htdocs/
-3. Open your Localhost SQL and create Database Name as pms
+3. Open your Localhost SQL and create Database Name as sportclub
 4. Then Import my Database File in Above DB.
 5. That's it! Start your XAMPP Apache & SQL
 
